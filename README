@@ -1,0 +1,6 @@
+Example of using app engine as an email gateway to your app.
+
+Only intended as a throwaway example of the mechanisms involved. Obviously you'd probably want some approach to make it secure, and handle other parts of an email message, such as attachments.
+
+App Engine Docs:
+http://code.google.com/appengine/docs/python/mail/
